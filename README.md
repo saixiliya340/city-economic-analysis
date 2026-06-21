@@ -33,6 +33,3 @@
 pip install pandas matplotlib
 python analysis.py
 `
-
----
-哈尔滨商业大学 · 经济统计学 · 大一下
